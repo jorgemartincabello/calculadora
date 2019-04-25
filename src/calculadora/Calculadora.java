@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author informatica Ruiz Gijón
+ * @author edd 1daw
  */
 public class Calculadora {
     
